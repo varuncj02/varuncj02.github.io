@@ -23,7 +23,7 @@ email: varun.joshi.2016.go@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal page that is everything about data and its intersection with I.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" "https://varuncj02.github.io"
+url: "https://varuncj02.github.io"
 twitter_username: jekyllrb
 github_username:  varuncj02
 
